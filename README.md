@@ -1,4 +1,4 @@
-# CI Practical — Chen FengFan
+# CI Practical — ChenFengFan
 
 Student initials: CFF
 
